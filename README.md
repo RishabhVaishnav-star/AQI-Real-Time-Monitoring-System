@@ -23,10 +23,6 @@ Developed a real-time Air Quality Monitoring System using API data to track poll
 * Compared pollutant contributions to AQI
 * Highlighted health risks based on AQI categories
 
-## 📊 Dashboard
-
-(Add dashboard screenshot here)
-
 ## ⚙️ How to Run
 
 1. Add your API key in `fetch_aqi.py`
